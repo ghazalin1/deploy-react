@@ -11,7 +11,7 @@ Steps.
 5. Add"predeploy": "npm run build",
     "deploy" : "gh-pages -d build"
     in "scripts".
-6. Run npm deploy on Terminal
+6. Run npm run deploy on Terminal
 
 
 #Run homepage to check http://ghazalin1.github.io/deploy-react/
